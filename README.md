@@ -22,11 +22,10 @@
   
 ## TOPIC AND PRESENTATION:
   - Intro 
-  - Total enrollment vs course
-  - Country vs course/ total enrollment
-  - Gender vs age vs course
-  - Education background
-  - 
+  - Total enrollment vs course based on age, gender, region, education background
+  - Performance vs age, gender, region, education background
+  - Retention and completion ratio
+  - Buy certificate or not? Sales amt and eft
 
 ## REFERENCES:
 - https://www.researchgate.net/publication/268150454_Where_is_Research_on_Massive_Open_Online_Courses_Headed_A_Data_Analysis_of_the_MOOC_Research_Initiative
