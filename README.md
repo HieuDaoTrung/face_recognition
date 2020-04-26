@@ -19,7 +19,7 @@
 
   - https://www.kaggle.com/edx/course-study
   - https://public.tableau.com/en-us/s/resources >> edX.org Academic Year 2012-2013
-  
+
 ## TOPIC AND PRESENTATION:
   - Intro 
   - Total enrollment vs course based on age, gender, region, education background
@@ -27,6 +27,10 @@
   - Retention and completion ratio
   - Buy certificate or not? Sales amt and eft
 
+## CHALLENGES:
+  - Lack of data
+  - Data is not clean
+  
 ## REFERENCES:
 - https://www.researchgate.net/publication/268150454_Where_is_Research_on_Massive_Open_Online_Courses_Headed_A_Data_Analysis_of_the_MOOC_Research_Initiative
 - https://www.researchgate.net/figure/Performance-monitoring-indicators-and-measures-for-MOOC-projects_tbl1_302553639
